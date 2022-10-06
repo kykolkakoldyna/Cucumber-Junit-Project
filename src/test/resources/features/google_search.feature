@@ -1,5 +1,4 @@
 @smoke
-
 Feature:Google Search Functionality Title Verification
   User story: As a user, when I am on a Google search page
   I should be able to search whatever I want and see relevant information
